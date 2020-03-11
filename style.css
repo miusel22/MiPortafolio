@@ -47,7 +47,7 @@ font-size: 18px;
 }
 .banner{
     margin-top: 45px;
-    background-image: url(./img/cait.jpg);
+    /*background-image: url(./img/cait.jpg);*/
 }
 
 .card-img-top:hover{
@@ -60,11 +60,10 @@ font-size: 18px;
     font-size: 20px;
 }
 
- .banner:hover{
+ /*.banner:hover{
     background-image: url(./img/omg.jpg) ;
     background-repeat: no-repeat;
-  
-}
+}*/
 .titulo:hover{
 margin-top: 45px;
 text-align: center;
